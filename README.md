@@ -7,7 +7,7 @@ Access the path : cd labtainer
 
 Unzip the file : tar -xzvf imodule.tar 
 
-Move the Email Phishing file to :/labtainer/trunk/labs/
+Move the Usermap Exploit 1 file to :/labtainer/trunk/labs/
 
 Run : labtainer -r usermap_exploit_1
 
