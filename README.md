@@ -11,6 +11,6 @@ Move the Usermap Exploit 1 file to :/labtainer/trunk/labs/
 
 Run : labtainer -r usermap_exploit_1
 
-Gradelab : cd labtainer/instructor/ --> gradelab -w usermap_exploit_1
+Gradelab : cd labtainer/labtainer-instructor/ --> gradelab -w usermap_exploit_1
 
 
