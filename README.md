@@ -1,13 +1,9 @@
 # labtainer
 Imodule of Ptit Usermap Exploit is made by Cuong AT021 + Thai AT173
 
-Download from git : git clone https://github.com/cuong1202/labtainer
+Access the path : cd labtainer/labtainer-student
 
-Access the path : cd labtainer
-
-Unzip the file : tar -xzvf imodule.tar 
-
-Move the Ptit Usermap Exploit file to :/labtainer/trunk/labs/
+Run: imodule https://github.com/cuong1202/labtainer/raw/main/imodule.tar
 
 Run : labtainer -r ptit-usermap-exploit
 
