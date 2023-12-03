@@ -1,7 +1,7 @@
 # labtainer
 Imodule of Ptit Usermap Exploit is made by Cuong AT021 + Thai AT173
 
-Access the path : cd labtainer/labtainer-student
+Access the path : `cd labtainer/labtainer-student`
 
 Run: `imodule https://github.com/cuong1202/labtainer/raw/main/imodule.tar`
 
